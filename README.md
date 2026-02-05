@@ -44,5 +44,5 @@ I utilize a **Docs-as-Code** workflow to ensure documentation scales with the so
 *   **Environments:** GitHub Codespaces & Postman for live testing.
 
 ## 📫 Let's Build Better Tools
-#### LinkedIn: shishir-tambe
+#### LinkedIn: [shishir-tambe](https://www.linkedin.com/in/shishir-tambe/)
 #### Email: shishirtambe01@gmail.com
