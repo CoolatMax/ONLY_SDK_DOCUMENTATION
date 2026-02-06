@@ -19,7 +19,7 @@ I believe an SDK is only as powerful as its documentation. My approach focuses o
 
 * * *
 
-## 🚀 All SDK Projects worked
+## 🚀 All SDK Documentation Projects, I worked !!!
 
 1. Enhance README and fix strict type imports: https://github.com/reclaimprotocol/docs/pull/106
 2. Add comprehensive sdk methods reference for issue: https://github.com/prince0xdev/mailzeet-ts/pull/9
