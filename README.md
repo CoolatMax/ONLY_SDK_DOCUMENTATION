@@ -26,9 +26,7 @@ I believe an SDK is only as powerful as its documentation. My approach focuses o
 3. Add streaming, error handling, and config examples: https://github.com/micah-nettey/layer-ai/pull/90
 4. SDK documentation - JavaScript: https://github.com/abm-dev-git/kong-portal/pull/138
 5. SDK documentation - Python: https://github.com/abm-dev-git/kong-portal/pull/139
-
-_Below are the specific SDK documentation systems I have architected and improved:_
-
+6. docs: error handling & expected exceptions and how to handle them: https://github.com/netdevops/hier-config-gpt/pull/29
 
 
 * * *
