@@ -1,4 +1,9 @@
 # 📦 SDK Documentation Portfolio
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/bf7bb3ed-8bf8-44c3-ab95-140688f13b3c" width="400" alt="SDK Integration">
+</p>
+
 ## 👤 Shishir Shreedhar Tambe
 ## Ex- Technical Consultant | Associate Technical Writer
 
